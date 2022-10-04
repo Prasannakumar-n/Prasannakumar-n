@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prasannakumar-n
+- 👋 Hi, I’m @Prasannakumar
 - 👀 I’m interested in python programming.
 - 🌱 I’m currently learning Python, ROS, Gazebo.
 - 💞️ I’m looking to collaborate on E-YANTRA projects(theme: HolA_Bot)
