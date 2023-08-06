@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Prasannakumar
-- 👀 I’m interested in python programming.
-- 🌱 I’m currently learning Python, ROS, Gazebo.
-- 💞️ I’m looking to collaborate on E-YANTRA projects(theme: HolA_Bot)
-- 📫 How to reach me prasannakumarnatarajan1@gmail.com
+- 👀 I'm passionate about Mobile Application Development.
+- 🌱 Currently, I'm focused on learning React Native and JavaScript.
+- 💞️ I'm eager to collaborate on Front-end development projects.
+- 📫 You can reach me at prasannakumarnatarajan1@gmail.com.
 
 <!---
 Prasannakumar-n/Prasannakumar-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
